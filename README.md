@@ -1,4 +1,4 @@
-[![Header](https://github.com/Gunit/Gunit/blob/main/assets/roman-synkevych-vXInUOv1n84-unsplash%201.png)](https://www.instagram.com/danilapanarin/)
+<!-- [![Header](https://github.com/Gunit/Gunit/blob/main/assets/roman-synkevych-vXInUOv1n84-unsplash%201.png)](https://www.instagram.com/danilapanarin/) -->
 
 ## I am a JavaScript teacher. Also a Software Engineer
 

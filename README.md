@@ -2,10 +2,10 @@
 
 ## I am a JavaScript teacher. Also a Software Engineer
 
-### Latest YouTube videos
+<!-- ### Latest YouTube videos
 
 <!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+<!-- YOUTUBE:END --> -->
 
 ### Languages and Tools
 

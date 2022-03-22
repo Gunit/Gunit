@@ -26,3 +26,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-141919?style=for-the-badge&logo=Telegram)](https://t.me/Apollo0)
 [![YouTube](https://img.shields.io/badge/-YouTube-141919?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UC8BTVj_9AmXq4RynzgOx8jA)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-141919?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/danil-panarin-202893206/)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gunit&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
